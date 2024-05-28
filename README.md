@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord:egrdawuw3, teelegram:https://t.me/Frake1
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 egordawuw3/egordawuw3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
