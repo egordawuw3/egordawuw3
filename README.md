@@ -3,4 +3,5 @@
 About me
 
 Languages and Tools
-[Java](https://img.shields.io/badge/<Java>-<090909>)
+[[Java](https://img.shields.io/badge/<Java>-<090909>)](https://img.shields.io/badge/Java%20?style=for-the-badge&logo=java&logoColor=rgb&labelColor=090909&color=090909
+)
