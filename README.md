@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zeni
-- 👀 I’m interested in Python
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning
 - 📫 How to reach me discord:egrdawuw3, teelegram:https://t.me/Frake1 email:egor242000gg@gmail.com
 
