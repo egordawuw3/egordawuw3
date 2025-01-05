@@ -2,6 +2,8 @@
 
 About me
 
+Hi there! I'm a **Junior Full-Stack Developer** with a passion for creating modern and functional applications. Let’s build something great together! 💻✨
+
 Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=java&logoColor=E76F00)
