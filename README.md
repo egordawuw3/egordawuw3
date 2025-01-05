@@ -20,7 +20,9 @@ Communication
 ![Discord](https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![Gmail](https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=EA4335)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egordawuw3&show_icons=true&theme=merko)
+##Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egordawuw3&show_icons=true&theme=radical)
 
 
 
