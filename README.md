@@ -1,65 +1,67 @@
 ![Header](https://github.com/egordawuw3/assets/blob/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B8%CC%86%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.png)
 
 # Zeni — Yehor | Full-Stack Developer 🧠🚀  
-*Building futuristic experiences through code and design.*
+*Crafting futuristic experiences with code and passion.*
 
 ---
 
-## 💡 Who am I?
+## 💡 About Me
 
-Hi! I'm Yehor — known as **Zeni**, a passionate full-stack developer with a vision.  
-I craft **modern, fast, and functional apps** that don’t just work — they inspire.
+Hello! I'm **Yehor**, aka **Zeni** — a Full-Stack Developer with a vision to build apps that **don’t just function, but inspire**.  
+I blend **creativity**, **performance**, and **scalability** into every line of code.
 
----
-
-## 🔭 Currently Working On
-
-- 🛠 **Unify** — next-gen productivity platform  
-- 🌐 **Astrum Studio** — [https://astrum.ct.ws](https://astrum.ct.ws)
+> _"Code is poetry — make it beautiful, make it powerful."_  
 
 ---
 
-## 🌱 Learning Now
+## 🚀 What I’m Building
 
-- ⚛️ Advanced React (architecture, hooks)  
-- ⚙️ Webpack & UnoCSS  
-- 🧱 Clean Code & System Design
+- **Unify** — the next-level productivity platform  
+- **Astrum Studio** — [astrum.ct.ws](https://astrum.ct.ws) — a hub for cutting-edge digital projects  
+
+---
+
+## 🔥 Core Skills & Expertise
+
+| Frontend                      | Backend                     | Tools & Cloud                |
+|------------------------------|-----------------------------|-----------------------------|
+| ⚛️ React & Redux              | ☕ Java & Spring Boot        | ☁️ AWS & Google Cloud        |
+| ✨ TypeScript & JavaScript    | 🔥 Node.js & Express        | 🐙 Git & GitHub             |
+| 🎨 Figma & CSS3/SCSS          | 🛠 RESTful APIs & Microservices | 🛠 Webpack, Docker, CI/CD   |
+| 📦 Webpack & UnoCSS           | 🐧 Linux Server Admin       | 💻 VSCode & IntelliJ IDEA    |
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns & performance optimization  
+- Webpack deep dive & UnoCSS mastery  
+- System design & scalable architectures  
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: egor242000gg@gmail.com  
-- 🌐 Portfolio: Coming soon...
-
----
-
-## 🧰 Tech & Tools I Use
-
-![Amazon AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg)  
-![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)  
-![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)  
-![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)  
-![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg)  
-![CSS3](https://skillicons.dev/icons?i=css)  
-![Figma](https://skillicons.dev/icons?i=figma)  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![Google Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg)  
-![HTML5](https://cdn.simpleicons.org/html5/E34F26)  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
-![IntelliJ IDEA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
-![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)  
-![Webpack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg)  
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)  
-![Discord](https://skillicons.dev/icons?i=discord)  
+| Platform     | Link / Contact                  |
+|--------------|--------------------------------|
+| 📧 Email     | egor242000gg@gmail.com          |
+| 🌐 Website   | [astrum.ct.ws](https://astrum.ct.ws) |
 
 ---
 
 ## ⚡ Fun Fact
 
-> I'm not here to follow trends —  
-> **I'm here to define them.**
+> _"I don’t chase trends, I create them."_  
+
+---
+
+## 🧑‍💻 Code Sample
+
+```js
+function zeni() {
+  return {
+    languages: ["JavaScript", "TypeScript", "Java", "React", "Spring"],
+    mindset: "Build like a legend",
+    goal: "Become a dev that people remember",
+  };
+}
